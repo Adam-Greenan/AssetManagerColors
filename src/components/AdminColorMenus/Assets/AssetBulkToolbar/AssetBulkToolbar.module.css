@@ -1,0 +1,70 @@
+.bulkToolbar {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 8px;
+  /* background: #1f1f1f; */
+  color: #fff;
+  border-radius: 6px;
+}
+
+.selectionControls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  flex-direction: column;
+}
+
+.selectionControls > div {
+  display: flex;
+  gap: 8px;
+  flex-direction: row;
+}
+
+.bulkControls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  flex-direction: column;
+}
+
+.bulkRow {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.select {
+  min-width: 160px;
+  color: black;
+}
+
+.button {
+  padding: 4px 8px;
+  border: none;
+  border-radius: 4px;
+  background: #3a3a3a;
+  color: #fff;
+  cursor: pointer;
+  transition: background 0.2s;
+  height: 36px;
+}
+
+.button.add {
+  background-color: palegreen;
+  color: black;
+}
+
+.button.remove {
+  background-color: #ff6961;
+}
+
+.deleteButton {
+  background: #c0392b;
+}
+
+.deleteButton:hover {
+  background: #e74c3c;
+}

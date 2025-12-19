@@ -1,0 +1,2180 @@
+{
+  "fontFamilies": [
+    {
+      "name": "Abril Fatface",
+      "value": "Abril Fatface",
+      "groups": ["Decorative", "Script", "Bold", "Favorites"],
+      "origin": "googlefonts",
+      "yVariance": {
+        "chrome": 5.7,
+        "safari": 0
+      }
+    },
+    {
+      "name": "Actor",
+      "value": "Actor",
+      "groups": ["Decorative"],
+      "origin": "googlefonts",
+      "yVariance": {
+        "chrome": 3.4,
+        "safari": 9.4
+      }
+    },
+    {
+      "name": "Agdasima",
+      "value": "Agdasima",
+      "groups": ["Decorative"],
+      "origin": "googlefonts",
+      "yVariance": {
+        "chrome": 5.6,
+        "safari": 13.9
+      }
+    },
+    {
+      "name": "Alex Brush",
+      "value": "Alex Brush",
+      "groups": ["Script", "Handwritten", "Default", "Favorites"],
+      "origin": "googlefonts",
+      "yVariance": {
+        "chrome": -3.5,
+        "safari": 0
+      }
+    },
+    {
+      "name": "Alex Brush:Bold:600",
+      "value": "Alex Brush:Bold:600",
+      "groups": ["Script", "Handwritten", "Default"],
+      "origin": "googlefonts",
+      "yVariance": {
+        "chrome": -3.5,
+        "safari": 0
+      }
+    },
+    {
+      "name": "Alfa Slab One",
+      "value": "Alfa Slab One",
+      "groups": ["Decorative", "Default", "Bold"],
+      "origin": "googlefonts",
+      "yVariance": {
+        "chrome": -2,
+        "safari": 6.5
+      }
+    },
+    {
+      "name": "Alumni Sans",
+      "value": "Alumni Sans",
+      "groups": ["Decorative"],
+      "origin": "googlefonts",
+      "yVariance": {
+        "chrome": 2.9,
+        "safari": 4.6
+      }
+    },
+    {
+      "name": "Angkor",
+      "value": "Angkor",
+      "groups": ["Decorative", "Default", "Bold"],
+      "origin": "googlefonts",
+      "yVariance": {
+        "chrome": -3.4,
+        "safari": 3.3
+      }
+    },
+    {
+      "name": "Anton",
+      "value": "Anton",
+      "groups": ["Decorative", "Default", "Bold"],
+      "origin": "googlefonts",
+      "yVariance": {
+        "chrome": 4.2,
+        "safari": 6.5
+      }
+    },
+    {
+      "name": "Antonio",
+      "value": "Antonio",
+      "groups": ["Decorative", "Default", "Favorites"],
+      "origin": "googlefonts",
+      "yVariance": {
+        "chrome": 11.7,
+        "safari": 14.1
+      }
+    },
+    {
+      "name": "Archivo Black",
+      "value": "Archivo Black",
+      "groups": ["Decorative", "Bold"],
+      "origin": "googlefonts",
+      "yVariance": {
+        "chrome": 8.1,
+        "safari": 8.6
+      }
+    },
+    {
+      "name": "Archivo Narrow",
+      "value": "Archivo Narrow",
+      "groups": ["Decorative", "Favorites"],
+      "origin": "googlefonts",
+      "yVariance": {
+        "chrome": 9,
+        "safari": 8.9
+      }
+    },
+    {
+      "name": "Arimo",
+      "value": "Arimo",
+      "groups": ["Decorative"],
+      "origin": "googlefonts",
+      "yVariance": {
+        "chrome": 5.7,
+        "safari": 8.8
+      }
+    },
+    {
+      "name": "Bayon",
+      "value": "Bayon",
+      "groups": ["Decorative", "Bold"],
+      "origin": "googlefonts",
+      "yVariance": {
+        "chrome": -1.2,
+        "safari": -2.2
+      }
+    },
+    {
+      "name": "Beau Rivage",
+      "value": "Beau Rivage",
+      "groups": ["Decorative"],
+      "origin": "googlefonts",
+      "yVariance": {
+        "chrome": -1.7,
+        "safari": 3.4
+      }
+    },
+    {
+      "name": "Birthstone",
+      "value": "Birthstone",
+      "groups": ["Decorative", "Default"],
+      "origin": "googlefonts",
+      "yVariance": {
+        "chrome": 9.5,
+        "safari": 15.9
+      }
+    },
+    {
+      "name": "Carattere",
+      "value": "Carattere",
+      "groups": ["Decorative", "Default"],
+      "origin": "googlefonts",
+      "yVariance": {
+        "chrome": -2.4,
+        "safari": 0
+      }
+    },
+    {
+      "name": "Hello Honey",
+      "value": "Hello Honey",
+      "groups": [],
+      "origin": "https://www.shopaardvark.com/media/aardvark/fonts/hello_honey.otf",
+      "yVariance": {
+        "chrome": 0,
+        "safari": 0
+      }
+    },
+    {
+      "name": "Chums",
+      "value": "Gabriel_Weiss_Friends_Font",
+      "groups": ["Special"],
+      "origin": "https://www.shopaardvark.com/media/aardvark/fonts/Gabriel_Weiss_Friends_Font.ttf",
+      "yVariance": {
+        "chrome": 0,
+        "safari": 0
+      }
+    },
+    {
+      "name": "Dancing Script",
+      "value": "Dancing Script",
+      "groups": ["Script", "Handwritten"],
+      "origin": "googlefonts",
+      "yVariance": {
+        "chrome": 7.4,
+        "safari": 11.9
+      }
+    },
+    {
+      "name": "Doppio One",
+      "value": "Doppio One",
+      "groups": ["Decorative"],
+      "origin": "googlefonts",
+      "yVariance": {
+        "chrome": 10.2,
+        "safari": 13.8
+      }
+    },
+    {
+      "name": "Dynalight",
+      "value": "Dynalight",
+      "groups": ["Decorative"],
+      "origin": "googlefonts",
+      "yVariance": {
+        "chrome": 6.7,
+        "safari": 12.4
+      }
+    },
+    {
+      "name": "Great Vibes",
+      "value": "Great Vibes",
+      "groups": ["Script", "Handwritten", "Favorites"],
+      "origin": "googlefonts",
+      "yVariance": {
+        "chrome": 1,
+        "safari": 0
+      }
+    },
+    {
+      "name": "Grey Qo",
+      "value": "Grey Qo",
+      "groups": ["Decorative"],
+      "origin": "googlefonts",
+      "yVariance": {
+        "chrome": 13,
+        "safari": 13.7
+      }
+    },
+    {
+      "name": "Gwendolyn",
+      "value": "Gwendolyn",
+      "groups": ["Decorative"],
+      "origin": "googlefonts",
+      "yVariance": {
+        "chrome": 8,
+        "safari": 9.9
+      }
+    },
+    {
+      "name": "Passion One",
+      "value": "Passion One",
+      "groups": ["Decorative", "Bold"],
+      "origin": "googlefonts",
+      "yVariance": {
+        "chrome": 2.7,
+        "safari": 4.5
+      }
+    },
+    {
+      "name": "Paytone One",
+      "value": "Paytone One",
+      "groups": ["Decorative", "Bold"],
+      "origin": "googlefonts",
+      "yVariance": {
+        "chrome": 13.5,
+        "safari": 14.6
+      }
+    },
+    {
+      "name": "Puppies Play",
+      "value": "Puppies Play",
+      "groups": ["Decorative"],
+      "origin": "googlefonts",
+      "yVariance": {
+        "chrome": 9.4,
+        "safari": 8.3
+      }
+    },
+    {
+      "name": "Rochester",
+      "value": "Rochester",
+      "groups": ["Script", "Handwritten", "Default"],
+      "origin": "googlefonts",
+      "yVariance": {
+        "chrome": 2.1,
+        "safari": 10.3
+      }
+    },
+    {
+      "name": "Russo One",
+      "value": "Russo One",
+      "groups": ["Decorative", "Bold"],
+      "origin": "googlefonts",
+      "yVariance": {
+        "chrome": 2,
+        "safari": 6
+      }
+    },
+    {
+      "name": "Style Script",
+      "value": "Style Script",
+      "groups": ["Script", "Handwritten", "Default", "Favorites"],
+      "origin": "googlefonts",
+      "yVariance": {
+        "chrome": 2.1,
+        "safari": 0.4
+      }
+    },
+    {
+      "name": "Tinos",
+      "value": "Tinos",
+      "groups": ["Decorative", "Default"],
+      "origin": "googlefonts",
+      "yVariance": {
+        "chrome": 5,
+        "safari": 10.7
+      }
+    },
+    {
+      "name": "Harry Potter",
+      "value": "HarryPotter",
+      "groups": ["Special"],
+      "origin": "local",
+      "yVariance": {
+        "chrome": 3.5,
+        "safari": 3.7
+      }
+    },
+    {
+      "name": "Boulevard",
+      "value": "Boulevard",
+      "groups": ["Favorites"],
+      "origin": "https://www.shopaardvark.com/media/aardvark/fonts/Boulevard.otf",
+      "yVariance": {
+        "chrome": 0.5,
+        "safari": 0
+      }
+    },
+    {
+      "name": "Varsity",
+      "value": "Varsity",
+      "groups": ["Default"],
+      "origin": "https://www.shopaardvark.com/media/aardvark/fonts/varsity_regular.ttf",
+      "yVariance": {
+        "chrome": 4.5,
+        "safari": 0
+      }
+    },
+    {
+      "name": "Playball-q6o1.ttf",
+      "value": "Playball-q6o1",
+      "groups": ["Default"],
+      "origin": "https://www.shopaardvark.com/media/aardvark/fonts/Playball-q6o1.ttf",
+      "yVariance": {
+        "chrome": 6,
+        "safari": 0
+      }
+    },
+    {
+      "name": "Press Start 2P",
+      "value": "Press Start 2P",
+      "groups": ["Default"],
+      "origin": "googlefonts",
+      "yVariance": {
+        "chrome": 1.5,
+        "safari": 0
+      }
+    },
+    {
+      "name": "Jersey 10",
+      "value": "Jersey 10",
+      "groups": ["Default"],
+      "origin": "googlefonts",
+      "yVariance": {
+        "chrome": 5,
+        "safari": 0
+      }
+    },
+    {
+      "name": "Whisper",
+      "value": "Whisper",
+      "groups": ["Default", "Favorites"],
+      "origin": "googlefonts",
+      "yVariance": {
+        "chrome": 8.5,
+        "safari": 0
+      }
+    },
+    {
+      "name": "Orbitron",
+      "value": "Orbitron",
+      "groups": ["Default"],
+      "origin": "googlefonts",
+      "yVariance": {
+        "chrome": 10,
+        "safari": 0
+      }
+    },
+    {
+      "name": "Oswald",
+      "value": "Oswald",
+      "groups": ["Decorative", "Default"],
+      "origin": "googlefonts",
+      "yVariance": {
+        "chrome": 13.5,
+        "safari": 0
+      }
+    },
+    {
+      "name": "Allura",
+      "value": "Allura",
+      "groups": ["Default"],
+      "origin": "googlefonts",
+      "yVariance": {
+        "chrome": 4.5,
+        "safari": 0
+      }
+    },
+    {
+      "name": "Silkscreen",
+      "value": "Silkscreen",
+      "groups": ["Default"],
+      "origin": "googlefonts",
+      "yVariance": {
+        "chrome": 6,
+        "safari": 0
+      }
+    },
+    {
+      "name": "Tangerine",
+      "value": "Tangerine",
+      "groups": ["Default"],
+      "origin": "googlefonts",
+      "yVariance": {
+        "chrome": 4,
+        "safari": 0
+      }
+    },
+    {
+      "name": "Mrs Saint Delafield",
+      "value": "Mrs Saint Delafield",
+      "groups": ["Default"],
+      "origin": "googlefonts",
+      "yVariance": {
+        "chrome": 2.5,
+        "safari": 0
+      }
+    },
+    {
+      "name": "Norican",
+      "value": "Norican",
+      "groups": ["Default"],
+      "origin": "googlefonts",
+      "yVariance": {
+        "chrome": 11,
+        "safari": 0
+      }
+    },
+    {
+      "name": "Hurricane",
+      "value": "Hurricane",
+      "groups": ["Default"],
+      "origin": "googlefonts",
+      "yVariance": {
+        "chrome": 5.8,
+        "safari": 0
+      }
+    },
+    {
+      "name": "Shojumaru",
+      "value": "Shojumaru",
+      "groups": ["Default"],
+      "origin": "googlefonts",
+      "yVariance": {
+        "chrome": 3,
+        "safari": 0
+      }
+    },
+    {
+      "name": "Notable",
+      "value": "Notable",
+      "groups": ["Default", "Bold"],
+      "origin": "googlefonts",
+      "yVariance": {
+        "chrome": 11.3,
+        "safari": 0
+      }
+    },
+    {
+      "name": "Mogra",
+      "value": "Mogra",
+      "groups": ["Default"],
+      "origin": "googlefonts",
+      "yVariance": {
+        "chrome": -3.5,
+        "safari": 0
+      }
+    },
+    {
+      "name": "MonteCarlo",
+      "value": "MonteCarlo",
+      "groups": ["Default"],
+      "origin": "googlefonts",
+      "yVariance": {
+        "chrome": 14.8,
+        "safari": 0
+      }
+    },
+    {
+      "name": "Bruno Acc Sc",
+      "value": "Bruno Acc Sc",
+      "groups": ["Default"],
+      "origin": "googlefonts",
+      "yVariance": {
+        "chrome": 7.8,
+        "safari": 0
+      }
+    },
+    {
+      "name": "Smokum",
+      "value": "Smokum",
+      "groups": ["Default"],
+      "origin": "googlefonts",
+      "yVariance": {
+        "chrome": 8.5,
+        "safari": 0
+      }
+    },
+    {
+      "name": "Ravi Prakash",
+      "value": "Ravi Prakash",
+      "groups": ["Default"],
+      "origin": "googlefonts",
+      "yVariance": {
+        "chrome": -10,
+        "safari": 0
+      }
+    },
+    {
+      "name": "Imperial Script",
+      "value": "Imperial Script",
+      "groups": ["Default", "Favorites"],
+      "origin": "googlefonts",
+      "yVariance": {
+        "chrome": 8.6,
+        "safari": 0
+      }
+    },
+    {
+      "name": "Bigelow Rules",
+      "value": "Bigelow Rules",
+      "groups": ["Default"],
+      "origin": "googlefonts",
+      "yVariance": {
+        "chrome": 1.2,
+        "safari": 0
+      }
+    },
+    {
+      "name": "Testimonia",
+      "value": "Testimonia",
+      "origin": "https://www.shopaardvark.com/media/aardvark/fonts/Testimonia.ttf",
+      "groups": ["Default"],
+      "yVariance": {
+        "chrome": 1,
+        "safari": 0
+      }
+    },
+    {
+      "name": "Sansilk",
+      "value": "Sansilk",
+      "origin": "https://www.shopaardvark.com/media/aardvark/fonts/Sansilk.ttf",
+      "groups": ["Default"],
+      "yVariance": {
+        "chrome": -6.8,
+        "safari": 0
+      }
+    },
+    {
+      "name": "LunafreyaRegular",
+      "value": "LunafreyaRegular",
+      "origin": "https://www.shopaardvark.com/media/aardvark/fonts/LunafreyaRegular.ttf",
+      "groups": ["Default"],
+      "yVariance": {
+        "chrome": 9.7,
+        "safari": 0
+      }
+    },
+    {
+      "name": "GetShow",
+      "value": "GetShow",
+      "origin": "https://www.shopaardvark.com/media/aardvark/fonts/GetShow.ttf",
+      "groups": ["Default"],
+      "yVariance": {
+        "chrome": -5.8,
+        "safari": 0
+      }
+    },
+    {
+      "name": "Anjhay",
+      "value": "Anjhay",
+      "origin": "https://www.shopaardvark.com/media/aardvark/fonts/Anjhay.ttf",
+      "groups": ["Default"],
+      "yVariance": {
+        "chrome": 6,
+        "safari": 0
+      }
+    },
+    {
+      "name": "Moonstar",
+      "value": "Moonstar",
+      "origin": "https://www.shopaardvark.com/media/aardvark/fonts/Moonstar.ttf",
+      "groups": ["Default"],
+      "yVariance": {
+        "chrome": 18.5,
+        "safari": 0
+      }
+    },
+    {
+      "name": "Christmas Day",
+      "value": "Christmas Day",
+      "origin": "https://www.shopaardvark.com/media/aardvark/fonts/CHRISTMAS DAY.otf",
+      "groups": ["Christmas"],
+      "yVariance": {
+        "chrome": 0,
+        "safari": 0
+      }
+    },
+    {
+      "name": "Montserrat",
+      "value": "Montserrat",
+      "origin": "https://www.shopaardvark.com/media/aardvark/fonts/Montserrat-Regular.otf",
+      "groups": ["Default"],
+      "yVariance": {
+        "chrome": 0,
+        "safari": 0
+      }
+    },
+    {
+      "name": "New Christmas",
+      "value": "New Christmas",
+      "origin": "https://www.shopaardvark.com/media/aardvark/fonts/new christmas.ttf",
+      "groups": ["Christmas"],
+      "yVariance": {
+        "chrome": 0,
+        "safari": 0
+      }
+    },
+    {
+      "name": "Christmas Bell",
+      "value": "Christmas Bell",
+      "origin": "https://www.shopaardvark.com/media/aardvark/fonts/Christmas Bell - Personal Use.otf",
+      "groups": ["Christmas"],
+      "yVariance": {
+        "chrome": 0,
+        "safari": 0
+      }
+    },
+    {
+      "name": "Christmas",
+      "value": "Christmas",
+      "origin": "https://www.shopaardvark.com/media/aardvark/fonts/christmas.ttf",
+      "groups": ["Christmas"],
+      "yVariance": {
+        "chrome": 0,
+        "safari": 0
+      }
+    },
+    {
+      "name": "Chrici",
+      "value": "Chrici",
+      "origin": "https://www.shopaardvark.com/media/aardvark/fonts/CHRICI.TTF",
+      "groups": ["Christmas"],
+      "yVariance": {
+        "chrome": 0,
+        "safari": 0
+      }
+    }
+  ],
+  "gradients": [
+    {
+      "id": 0,
+      "name": "Gradient 1",
+      "value": "45deg, #F400FF 0%, #FF0000 100%",
+      "tags": ["linear", "purple", "red", "vivid", "warm"],
+      "groups": ["group1", "default"]
+    },
+    {
+      "id": 1,
+      "name": "Gradient 2",
+      "value": "90deg, #4CAF50 0%, #31DCFF 100%",
+      "tags": ["linear", "green", "blue", "vivid", "cool"],
+      "groups": ["group2", "default"]
+    },
+    {
+      "id": 2,
+      "name": "Gradient 3",
+      "value": "135deg, #FFFF00 0%, #FF3B00 100%",
+      "tags": ["linear", "yellow", "red", "vivid", "warm"],
+      "groups": ["group2", "default"]
+    },
+    {
+      "id": 3,
+      "name": "Gradient 4",
+      "value": "180deg, #0000FF 0%, #008000 100%",
+      "tags": ["linear", "blue", "green", "vivid", "cool"],
+      "groups": ["group1", "default"]
+    },
+    {
+      "id": 4,
+      "name": "Gradient 5",
+      "value": "90deg, #FFFF00 0%, #00BCD4 50%, #EE82EE 100%",
+      "tags": [
+        "linear",
+        "yellow",
+        "blue",
+        "purple",
+        "vivid",
+        "pastel",
+        "cool",
+        "warm"
+      ],
+      "groups": ["group1", "default"]
+    },
+    {
+      "id": 5,
+      "name": "Gold",
+      "value": "60deg, #623216 0%, #FBF5AE 10%, #E9C054 20%, #623216 30%, #E9C155 40%, #FBF5AE 50%, #633317 60%, #E1AC33 70%, #FBF5AE 80%, #E1AC33 90%, #623216 100%",
+      "tags": ["linear", "gold", "vivid", "warm", "luxury"],
+      "groups": ["group1", "default"]
+    },
+    {
+      "id": 6,
+      "name": "Silver",
+      "value": "60deg, #231f20 0%, #e7e7e7 10%, #b9b9b9 20%, #231f20 30%, #e7e7e7 40%, #b9b9b9 50%, #231f20 60%, #e7e7e7 70%, #b9b9b9 80%, #c3c3c3 90%, #231f20 100%",
+      "tags": ["linear", "silver", "muted", "cool", "luxury"],
+      "groups": ["group1", "default"]
+    },
+    {
+      "id": 7,
+      "name": "Rose Gold",
+      "value": "60deg, #ffd9d2 0%, #b7625a 10%, #d4857a 20%, #ffd9d2 30%, #b7625a 40%, #d4857a 50%, #ffd9d2 60%, #b7625a 70%, #d4857a 80%, #ffd9d2 90%, #af5c53 100%",
+      "tags": ["linear", "pink", "gold", "vivid", "warm", "luxury"],
+      "groups": ["group1", "default"]
+    },
+    {
+      "id": 8,
+      "name": "Gold Age",
+      "value": "-20deg, #623216 0%, #FBF5AE 10%, #E9C054 20%, #623216 30%, #E9C155 40%, #FBF5AE 50%, #633317 30%, #E1AC33 70%, #FBF5AE 80%, #E1AC33 90%, #623216 100%",
+      "tags": ["linear", "gold", "vivid", "warm", "luxury"],
+      "groups": ["group1", "default"]
+    },
+    {
+      "id": 9,
+      "name": "Summer Horizon II",
+      "value": "135deg, #FFD700 0%, #FF6347 50%, #FF4500 100%",
+      "tags": ["gradient", "summer", "yellow", "orange", "warm"],
+      "groups": ["default"]
+    },
+    {
+      "id": 10,
+      "name": "Spring Sky",
+      "value": "180deg, #B0E0E6 0%, #AFEEEE 50%, #E0FFFF 100%",
+      "tags": ["gradient", "spring", "blue", "pastel", "warm", "nature"],
+      "groups": ["default"]
+    },
+    {
+      "id": 11,
+      "name": "Ocean Horizon",
+      "value": "60deg, #1E90FF 0%, #00CED1 50%, #20B2AA 100%",
+      "tags": ["gradient", "ocean", "blue", "green", "cool", "nature"],
+      "groups": ["default"]
+    },
+    {
+      "id": 12,
+      "name": "Sunset Coral",
+      "value": "90deg, #FF4500 0%, #FF6347 50%, #FF7F50 100%",
+      "tags": ["gradient", "sunset", "orange", "pink", "warm", "summer"],
+      "groups": ["default"]
+    },
+    {
+      "id": 13,
+      "name": "Autumn Glow",
+      "value": "135deg, #FFA500 0%, #FFB347 50%, #FF8C00 100%",
+      "tags": [
+        "gradient",
+        "autumn",
+        "orange",
+        "yellow",
+        "warm",
+        "fall",
+        "harvest"
+      ],
+      "groups": ["default"]
+    },
+    {
+      "id": 14,
+      "name": "Winter Mist",
+      "value": "180deg, #E0FFFF 0%, #AFEEEE 50%, #ADD8E6 100%",
+      "tags": ["gradient", "winter", "blue", "icy", "cool", "snow"],
+      "groups": ["default"]
+    },
+    {
+      "id": 15,
+      "name": "Valentine Glow",
+      "value": "60deg, #FF69B4 0%, #FF1493 50%, #FFC0CB 100%",
+      "tags": ["gradient", "valentines", "pink", "red", "love", "warm"],
+      "groups": ["default"]
+    },
+    {
+      "id": 16,
+      "name": "Halloween Sky",
+      "value": "90deg, #4B0082 0%, #8B008B 50%, #000000 100%",
+      "tags": ["gradient", "halloween", "purple", "dark", "spooky", "black"],
+      "groups": ["default"]
+    },
+    {
+      "id": 17,
+      "name": "Spring Petals",
+      "value": "180deg, #FFB6C1 0%, #FFC0CB 50%, #FFF0F5 100%",
+      "tags": ["gradient", "spring", "pink", "pastel", "warm", "nature"],
+      "groups": ["default"]
+    },
+    {
+      "id": 18,
+      "name": "Aurora Sky II",
+      "value": "60deg, #00FFFF 0%, #7FFFD4 50%, #4B0082 100%",
+      "tags": [
+        "gradient",
+        "aurora",
+        "blue",
+        "green",
+        "purple",
+        "cool",
+        "nature"
+      ],
+      "groups": ["default"]
+    },
+    {
+      "id": 19,
+      "name": "Sunset Romance II",
+      "value": "90deg, #FF4500 0%, #FF6347 50%, #FF69B4 100%",
+      "tags": ["gradient", "sunset", "orange", "pink", "warm", "love"],
+      "groups": ["default"]
+    },
+    {
+      "id": 20,
+      "name": "Autumn Forest",
+      "value": "135deg, #FF8C00 0%, #A0522D 50%, #8B4513 100%",
+      "tags": [
+        "gradient",
+        "autumn",
+        "orange",
+        "brown",
+        "warm",
+        "fall",
+        "harvest"
+      ],
+      "groups": ["default"]
+    },
+    {
+      "id": 21,
+      "name": "Winter Dusk",
+      "value": "180deg, #4682B4 0%, #5F9EA0 50%, #B0C4DE 100%",
+      "tags": ["gradient", "winter", "blue", "icy", "cool", "snow"],
+      "groups": ["default"]
+    },
+    {
+      "id": 22,
+      "name": "Valentine Pink",
+      "value": "60deg, #FFC0CB 0%, #FF69B4 50%, #FF1493 100%",
+      "tags": ["gradient", "valentines", "pink", "red", "love", "warm"],
+      "groups": ["default"]
+    },
+    {
+      "id": 23,
+      "name": "Halloween Forest",
+      "value": "90deg, #2F4F4F 0%, #4B0082 50%, #8B008B 100%",
+      "tags": ["gradient", "halloween", "dark", "purple", "spooky", "black"],
+      "groups": ["default"]
+    },
+    {
+      "id": 24,
+      "name": "Summer Glow",
+      "value": "135deg, #FFD700 0%, #FFA500 50%, #FF4500 100%",
+      "tags": ["gradient", "summer", "yellow", "orange", "warm"],
+      "groups": ["default"]
+    },
+    {
+      "id": 25,
+      "name": "Autumn Flame",
+      "value": "135deg, #FFA500 0%, #FF8C00 50%, #A0522D 100%",
+      "tags": [
+        "gradient",
+        "autumn",
+        "orange",
+        "brown",
+        "warm",
+        "fall",
+        "harvest"
+      ],
+      "groups": ["default"]
+    },
+    {
+      "id": 26,
+      "name": "Winter Aurora III",
+      "value": "180deg, #00FFFF 0%, #00CED1 50%, #4682B4 100%",
+      "tags": ["gradient", "winter", "blue", "icy", "cool", "snow"],
+      "groups": ["default"]
+    },
+    {
+      "id": 27,
+      "name": "Valentine Sunset",
+      "value": "60deg, #FF007F 0%, #FF69B4 50%, #FFC0CB 100%",
+      "tags": ["gradient", "valentines", "pink", "red", "love", "warm"],
+      "groups": ["default"]
+    },
+    {
+      "id": 28,
+      "name": "Halloween Glow II",
+      "value": "90deg, #FF7518 0%, #FFA500 50%, #8B008B 100%",
+      "tags": ["gradient", "halloween", "orange", "purple", "dark", "spooky"],
+      "groups": ["default"]
+    },
+    {
+      "id": 29,
+      "name": "Cosmic Dawn",
+      "value": "45deg, #0D0D2B 0%, #6B0F1A 50%, #FF6B6B 100%",
+      "tags": ["gradient", "purple", "red", "vivid", "cosmic"],
+      "groups": ["default"]
+    },
+    {
+      "id": 30,
+      "name": "Neon Tide",
+      "value": "90deg, #00FFF7 0%, #0057FF 50%, #FF00F7 100%",
+      "tags": ["gradient", "blue", "pink", "vivid", "neon", "cyberpunk"],
+      "groups": ["default"]
+    },
+    {
+      "id": 31,
+      "name": "Tropical Sunset",
+      "value": "135deg, #FFB347 0%, #FFCC33 50%, #FF5733 100%",
+      "tags": ["gradient", "orange", "yellow", "vivid", "tropical"],
+      "groups": ["default"]
+    },
+    {
+      "id": 32,
+      "name": "Dreamy Pastel",
+      "value": "180deg, #FFD1DC 0%, #C1F0F6 50%, #E6C9FF 100%",
+      "tags": ["gradient", "pastel", "pink", "blue", "purple", "dreamy"],
+      "groups": ["default"]
+    },
+    {
+      "id": 33,
+      "name": "Electric Waves",
+      "value": "60deg, #FF00FF 0%, #00FFFF 50%, #1C1CF0 100%",
+      "tags": ["gradient", "blue", "pink", "vivid", "neon", "cyberpunk"],
+      "groups": ["default"]
+    },
+    {
+      "id": 34,
+      "name": "Aurora Sky",
+      "value": "120deg, #0B3D91 0%, #1ABC9C 50%, #F1C40F 100%",
+      "tags": ["gradient", "blue", "green", "yellow", "vivid", "aurora"],
+      "groups": ["default"]
+    },
+    {
+      "id": 35,
+      "name": "Forest Mist",
+      "value": "75deg, #2E8B57 0%, #98FB98 50%, #556B2F 100%",
+      "tags": ["gradient", "green", "muted", "earthy", "nature"],
+      "groups": ["default"]
+    },
+    {
+      "id": 36,
+      "name": "Berry Burst",
+      "value": "150deg, #8B008B 0%, #FF1493 50%, #FF69B4 100%",
+      "tags": ["gradient", "pink", "purple", "vivid", "fruit"],
+      "groups": ["default"]
+    },
+    {
+      "id": 37,
+      "name": "Deep Ocean",
+      "value": "90deg, #001F3F 0%, #0074D9 50%, #7FDBFF 100%",
+      "tags": ["gradient", "blue", "cool", "ocean", "vivid"],
+      "groups": ["default"]
+    },
+    {
+      "id": 38,
+      "name": "Candy Floss",
+      "value": "45deg, #FFC1CC 0%, #FFF0F5 50%, #E6E6FA 100%",
+      "tags": ["gradient", "pastel", "pink", "purple", "sweet", "dreamy"],
+      "groups": ["default"]
+    },
+    {
+      "id": 39,
+      "name": "Cyber Pulse",
+      "value": "135deg, #FF00FF 0%, #00FFEE 50%, #0000FF 100%",
+      "tags": ["gradient", "pink", "blue", "vivid", "neon", "cyberpunk"],
+      "groups": ["default"]
+    },
+    {
+      "id": 40,
+      "name": "Sunset Beach",
+      "value": "90deg, #FF7E5F 0%, #FEB47B 50%, #FFD194 100%",
+      "tags": ["gradient", "orange", "yellow", "vivid", "tropical"],
+      "groups": ["default"]
+    },
+    {
+      "id": 41,
+      "name": "Twilight Glow",
+      "value": "180deg, #2C3E50 0%, #FD746C 50%, #FF6B6B 100%",
+      "tags": ["gradient", "blue", "pink", "purple", "vivid", "cosmic"],
+      "groups": ["default"]
+    },
+    {
+      "id": 42,
+      "name": "Aurora Borealis",
+      "value": "75deg, #1B0032 0%, #004D40 50%, #00FFAB 100%",
+      "tags": ["gradient", "green", "blue", "vivid", "aurora", "cosmic"],
+      "groups": ["default"]
+    },
+    {
+      "id": 43,
+      "name": "Juicy Citrus",
+      "value": "120deg, #FFA500 0%, #FFD700 50%, #FF4500 100%",
+      "tags": ["gradient", "orange", "yellow", "vivid", "fruit"],
+      "groups": ["default"]
+    },
+    {
+      "id": 44,
+      "name": "Mystic Purple",
+      "value": "60deg, #8A2BE2 0%, #DA70D6 50%, #D8BFD8 100%",
+      "tags": ["gradient", "purple", "pastel", "vivid", "dreamy"],
+      "groups": ["default"]
+    },
+    {
+      "id": 45,
+      "name": "Deep Space",
+      "value": "135deg, #000428 0%, #004e92 50%, #1B1B2F 100%",
+      "tags": ["gradient", "blue", "dark", "cosmic"],
+      "groups": ["default"]
+    },
+    {
+      "id": 46,
+      "name": "Lush Meadow",
+      "value": "90deg, #7CFC00 0%, #32CD32 50%, #228B22 100%",
+      "tags": ["gradient", "green", "vivid", "nature"],
+      "groups": ["default"]
+    },
+    {
+      "id": 47,
+      "name": "Tropical Punch",
+      "value": "45deg, #FF4500 0%, #FF6347 50%, #FF7F50 100%",
+      "tags": ["gradient", "orange", "red", "vivid", "tropical"],
+      "groups": ["default"]
+    },
+    {
+      "id": 48,
+      "name": "Cotton Candy Clouds",
+      "value": "60deg, #FFB6C1 0%, #FFD1DC 50%, #E6E6FA 100%",
+      "tags": ["gradient", "pink", "pastel", "purple", "dreamy"],
+      "groups": ["default"]
+    },
+    {
+      "id": 49,
+      "name": "Sunset Horizon",
+      "value": "90deg, #FF7E5F 0%, #FEB47B 50%, #FFD194 100%",
+      "tags": ["gradient", "orange", "yellow", "vivid", "warm", "sunset"],
+      "groups": ["default"]
+    },
+    {
+      "id": 50,
+      "name": "Ocean Depths",
+      "value": "120deg, #000C40 0%, #004E92 50%, #007FFF 100%",
+      "tags": ["gradient", "blue", "dark", "vivid", "ocean"],
+      "groups": ["default"]
+    },
+    {
+      "id": 51,
+      "name": "Tropical Lagoon",
+      "value": "45deg, #00FFCC 0%, #00A2FF 50%, #007FFF 100%",
+      "tags": ["gradient", "blue", "green", "vivid", "tropical"],
+      "groups": ["default"]
+    },
+    {
+      "id": 52,
+      "name": "Magenta Mist",
+      "value": "135deg, #FF00FF 0%, #DA70D6 50%, #FFB6C1 100%",
+      "tags": ["gradient", "pink", "purple", "vivid", "dreamy"],
+      "groups": ["default"]
+    },
+    {
+      "id": 53,
+      "name": "Citrus Sunrise",
+      "value": "60deg, #FFA500 0%, #FFD700 50%, #FF6347 100%",
+      "tags": ["gradient", "orange", "yellow", "vivid", "warm"],
+      "groups": ["default"]
+    },
+    {
+      "id": 54,
+      "name": "Neon Nights",
+      "value": "180deg, #FF00FF 0%, #00FFFF 50%, #1C1CF0 100%",
+      "tags": ["gradient", "blue", "pink", "vivid", "neon", "cyberpunk"],
+      "groups": ["default"]
+    },
+    {
+      "id": 55,
+      "name": "Forest Canopy",
+      "value": "75deg, #0B3D20 0%, #228B22 50%, #7CFC00 100%",
+      "tags": ["gradient", "green", "vivid", "nature"],
+      "groups": ["default"]
+    },
+    {
+      "id": 56,
+      "name": "Lavender Fields",
+      "value": "60deg, #E6E6FA 0%, #DDA0DD 50%, #8A2BE2 100%",
+      "tags": ["gradient", "purple", "pastel", "vivid", "dreamy"],
+      "groups": ["default"]
+    },
+    {
+      "id": 57,
+      "name": "Cyber Rainbow",
+      "value": "135deg, #FF00FF 0%, #1C1CF0 50%, #00FFFF 100%",
+      "tags": ["gradient", "pink", "blue", "neon", "vivid", "cyberpunk"],
+      "groups": ["default"]
+    },
+    {
+      "id": 58,
+      "name": "Emerald Mist",
+      "value": "60deg, #00A86B 0%, #50C878 50%, #7CFC00 100%",
+      "tags": ["gradient", "green", "vivid", "nature"],
+      "groups": ["default"]
+    },
+    {
+      "id": 59,
+      "name": "Ocean Mirage",
+      "value": "90deg, #0077BE 0%, #00CFFF 50%, #7FFFD4 100%",
+      "tags": ["gradient", "blue", "cyan", "vivid", "cool", "ocean"],
+      "groups": ["default"]
+    },
+    {
+      "id": 60,
+      "name": "Neon Horizon",
+      "value": "120deg, #FF6EC7 0%, #1C1CF0 50%, #00FFFF 100%",
+      "tags": ["gradient", "pink", "blue", "vivid", "neon", "cyberpunk"],
+      "groups": ["default"]
+    },
+    {
+      "id": 61,
+      "name": "Coral Reef",
+      "value": "60deg, #FF7F50 0%, #FFA07A 50%, #FFDAB9 100%",
+      "tags": ["gradient", "orange", "pink", "vivid", "tropical"],
+      "groups": ["default"]
+    },
+    {
+      "id": 62,
+      "name": "Aurora Glow",
+      "value": "135deg, #00FFAB 0%, #1CFFFA 50%, #7FFF00 100%",
+      "tags": ["gradient", "green", "blue", "vivid", "aurora"],
+      "groups": ["default"]
+    },
+    {
+      "id": 63,
+      "name": "Mystic Dawn",
+      "value": "45deg, #FF69B4 0%, #FFB6C1 50%, #DA70D6 100%",
+      "tags": ["gradient", "pink", "purple", "vivid", "dreamy"],
+      "groups": ["default"]
+    },
+    {
+      "id": 64,
+      "name": "Sunset Bay",
+      "value": "90deg, #FF4500 0%, #FFA500 50%, #FFD700 100%",
+      "tags": ["gradient", "orange", "yellow", "vivid", "warm", "sunset"],
+      "groups": ["default"]
+    },
+    {
+      "id": 65,
+      "name": "Electric Ocean",
+      "value": "180deg, #1C1CF0 0%, #00FFFF 50%, #007FFF 100%",
+      "tags": ["gradient", "blue", "cyan", "vivid", "neon", "cyberpunk"],
+      "groups": ["default"]
+    },
+    {
+      "id": 66,
+      "name": "Tropical Dawn",
+      "value": "75deg, #00FFCC 0%, #00A2FF 50%, #7FFFD4 100%",
+      "tags": ["gradient", "green", "blue", "vivid", "tropical"],
+      "groups": ["default"]
+    },
+    {
+      "id": 67,
+      "name": "Pink Sunset",
+      "value": "90deg, #FFB6C1 0%, #FFC0CB 50%, #FF69B4 100%",
+      "tags": ["gradient", "pink", "pastel", "vivid", "dreamy"],
+      "groups": ["default"]
+    },
+    {
+      "id": 68,
+      "name": "Copper",
+      "value": "60deg, #381202 0%, #E0A05A 10%, #C47937 20%, #381202 30%, #C37836 40%, #E0A05A 50%, #381202 60%, #C37836 70%, #E0A05A 80%, #C37836 90%, #381202 100%",
+      "tags": ["linear", "copper", "warm", "luxury"],
+      "groups": ["group1", "default"]
+    },
+    {
+      "id": 69,
+      "name": "Bronze",
+      "value": "60deg, #442C0B 0%, #D4A850 10%, #A67C2F 20%, #442C0B 30%, #A67C2F 40%, #D4A850 50%, #442C0B 60%, #A67C2F 70%, #D4A850 80%, #A67C2F 90%, #442C0B 100%",
+      "tags": ["linear", "bronze", "warm", "luxury"],
+      "groups": ["group1", "default"]
+    },
+    {
+      "id": 70,
+      "name": "Platinum",
+      "value": "60deg, #373A3D 0%, #F5F5F5 10%, #C7C7C7 20%, #373A3D 30%, #C7C7C7 40%, #F5F5F5 50%, #373A3D 60%, #C7C7C7 70%, #F5F5F5 80%, #C7C7C7 90%, #373A3D 100%",
+      "tags": ["linear", "platinum", "cool", "luxury"],
+      "groups": ["group1", "default"]
+    },
+    {
+      "id": 71,
+      "name": "Gunmetal",
+      "value": "60deg, #1C1C1F 0%, #8A8D8F 10%, #5B5D5F 20%, #1C1C1F 30%, #5B5D5F 40%, #8A8D8F 50%, #1C1C1F 60%, #5B5D5F 70%, #8A8D8F 80%, #5B5D5F 90%, #1C1C1F 100%",
+      "tags": ["linear", "gunmetal", "cool", "dark", "luxury"],
+      "groups": ["group1", "default"]
+    },
+    {
+      "id": 72,
+      "name": "Brass",
+      "value": "60deg, #4F380A 0%, #F0E68C 10%, #E7C65E 20%, #4F380A 30%, #E7C65E 40%, #F0E68C 50%, #4F380A 60%, #E7C65E 70%, #F0E68C 80%, #E7C65E 90%, #4F380A 100%",
+      "tags": ["linear", "brass", "warm", "luxury"],
+      "groups": ["group1", "default"]
+    },
+    {
+      "id": 73,
+      "name": "Cobalt Blue",
+      "value": "60deg, #000B22 0%, #586FBC 10%, #2A4494 20%, #000B22 30%, #2A4494 40%, #586FBC 50%, #000B22 60%, #2A4494 70%, #586FBC 80%, #2A4494 90%, #000B22 100%",
+      "tags": ["linear", "blue", "cool", "luxury"],
+      "groups": ["group1", "default"]
+    },
+    {
+      "id": 74,
+      "name": "Chrome",
+      "value": "60deg, #A8A8A8 0%, #FFFFFF 10%, #C1C1C1 20%, #A8A8A8 30%, #C1C1C1 40%, #FFFFFF 50%, #A8A8A8 60%, #C1C1C1 70%, #FFFFFF 80%, #C1C1C1 90%, #A8A8A8 100%",
+      "tags": ["linear", "chrome", "cool", "luxury"],
+      "groups": ["group1", "default"]
+    },
+    {
+      "id": 75,
+      "name": "Titanium",
+      "value": "60deg, #2D3339 0%, #B7BCC1 10%, #878E95 20%, #2D3339 30%, #878E95 40%, #B7BCC1 50%, #2D3339 60%, #878E95 70%, #B7BCC1 80%, #878E95 90%, #2D3339 100%",
+      "tags": ["linear", "titanium", "cool", "muted", "luxury"],
+      "groups": ["group1", "default"]
+    },
+    {
+      "id": 76,
+      "name": "Pewter",
+      "value": "60deg, #4C4C4C 0%, #D8D8D8 10%, #9E9E9E 20%, #4C4C4C 30%, #9E9E9E 40%, #D8D8D8 50%, #4C4C4C 60%, #9E9E9E 70%, #D8D8D8 80%, #9E9E9E 90%, #4C4C4C 100%",
+      "tags": ["linear", "pewter", "cool", "muted", "luxury"],
+      "groups": ["group1", "default"]
+    },
+    {
+      "id": 77,
+      "name": "Neon Pink",
+      "value": "60deg, #6C0028 0%, #FF66AA 10%, #FF2683 20%, #6C0028 30%, #FF2683 40%, #FF66AA 50%, #6C0028 60%, #FF2683 70%, #FF66AA 80%, #FF2683 90%, #6C0028 100%",
+      "tags": ["linear", "pink", "neon", "vivid", "electric"],
+      "groups": ["group1", "default"]
+    },
+    {
+      "id": 78,
+      "name": "Crimson Steel",
+      "value": "60deg, #2A0408 0%, #CC5260 10%, #A22B38 20%, #2A0408 30%, #A22B38 40%, #CC5260 50%, #2A0408 60%, #A22B38 70%, #CC5260 80%, #A22B38 90%, #2A0408 100%",
+      "tags": ["linear", "red", "dark", "cool", "steel"],
+      "groups": ["group1", "default"]
+    },
+    {
+      "id": 79,
+      "name": "Teal Shine",
+      "value": "60deg, #0A2624 0%, #30A8A0 10%, #157E77 20%, #0A2624 30%, #157E77 40%, #30A8A0 50%, #0A2624 60%, #157E77 70%, #30A8A0 80%, #157E77 90%, #0A2624 100%",
+      "tags": ["linear", "teal", "green", "cool", "vivid"],
+      "groups": ["group1", "default"]
+    },
+    {
+      "id": 80,
+      "name": "Olive Gloss",
+      "value": "60deg, #1B1E05 0%, #BCC36E 10%, #828B47 20%, #1B1E05 30%, #828B47 40%, #BCC36E 50%, #1B1E05 60%, #828B47 70%, #BCC36E 80%, #828B47 90%, #1B1E05 100%",
+      "tags": ["linear", "olive", "green", "muted", "earthy"],
+      "groups": ["group1", "default"]
+    },
+    {
+      "id": 81,
+      "name": "Lavender Haze",
+      "value": "60deg, #301750 0%, #B297E0 10%, #765DAF 20%, #301750 30%, #765DAF 40%, #B297E0 50%, #301750 60%, #765DAF 70%, #B297E0 80%, #765DAF 90%, #301750 100%",
+      "tags": ["linear", "lavender", "purple", "cool", "soft"],
+      "groups": ["group1", "default"]
+    },
+    {
+      "id": 82,
+      "name": "Saffron Sheen",
+      "value": "60deg, #3A1C00 0%, #FFC152 10%, #E0982E 20%, #3A1C00 30%, #E0982E 40%, #FFC152 50%, #3A1C00 60%, #E0982E 70%, #FFC152 80%, #E0982E 90%, #3A1C00 100%",
+      "tags": ["linear", "saffron", "orange", "warm", "vivid"],
+      "groups": ["group1", "default"]
+    },
+    {
+      "id": 83,
+      "name": "Midnight Iridescence",
+      "value": "60deg, #100C30 0%, #B0A0FF 10%, #5848C4 20%, #100C30 30%, #5848C4 40%, #B0A0FF 50%, #100C30 60%, #5848C4 70%, #B0A0FF 80%, #5848C4 90%, #100C30 100%",
+      "tags": ["linear", "blue", "purple", "dark", "iridescent"],
+      "groups": ["group1", "default"]
+    },
+    {
+      "id": 84,
+      "name": "Coral Glow",
+      "value": "60deg, #380C08 0%, #FF9085 10%, #D86355 20%, #380C08 30%, #D86355 40%, #FF9085 50%, #380C08 60%, #D86355 70%, #FF9085 80%, #D86355 90%, #380C08 100%",
+      "tags": ["linear", "coral", "red", "warm", "soft"],
+      "groups": ["group1", "default"]
+    },
+    {
+      "id": 85,
+      "name": "Slate Blue",
+      "value": "60deg, #10151C 0%, #90A3B5 10%, #546C83 20%, #10151C 30%, #546C83 40%, #90A3B5 50%, #10151C 60%, #546C83 70%, #90A3B5 80%, #546C83 90%, #10151C 100%",
+      "tags": ["linear", "blue", "gray", "cool", "muted"],
+      "groups": ["group1", "default"]
+    },
+    {
+      "id": 86,
+      "name": "Forest Shimmer",
+      "value": "60deg, #051A07 0%, #93D498 10%, #44924A 20%, #051A07 30%, #44924A 40%, #93D498 50%, #051A07 60%, #44924A 70%, #93D498 80%, #44924A 90%, #051A07 100%",
+      "tags": ["linear", "green", "dark", "vivid", "nature"],
+      "groups": ["group1", "default"]
+    }
+  ],
+  "patterns": [
+    {
+      "id": 0,
+      "name": "Gold Glitter",
+      "url": "https://www.shopaardvark.com/media/aardvark/patterns/Gold_Glitter.jpg",
+      "width": 9447,
+      "height": 2843,
+      "ratio": 1,
+      "tags": ["gold"],
+      "groups": ["default", "group2"]
+    },
+    {
+      "id": 1,
+      "name": "Silver Glitter",
+      "url": "https://www.shopaardvark.com/media/aardvark/patterns/Silver_Glitter.jpg",
+      "width": 9447,
+      "height": 2843,
+      "ratio": 1,
+      "tags": ["silver"],
+      "groups": ["default", "group2"]
+    },
+    {
+      "id": 2,
+      "name": "Floral",
+      "url": "https://www.shopaardvark.com/media/aardvark/patterns/Floral_Pattern_new.jpg",
+      "width": 9447,
+      "height": 2843,
+      "ratio": 1,
+      "tags": ["floral"],
+      "groups": ["default", "group2"]
+    },
+    {
+      "id": 3,
+      "name": "Leaves",
+      "url": "https://www.shopaardvark.com/media/aardvark/patterns/Leaves.jpg",
+      "width": 9447,
+      "height": 2843,
+      "ratio": 1,
+      "tags": ["leaves"],
+      "groups": ["default", "group2"]
+    },
+    {
+      "id": 4,
+      "name": "Camo",
+      "url": "https://www.shopaardvark.com/media/aardvark/patterns/Camo_Pattern.jpg",
+      "width": 9447,
+      "height": 2843,
+      "ratio": 1,
+      "tags": ["camo"],
+      "groups": ["default", "group2"]
+    },
+    {
+      "id": 5,
+      "name": "Gold Age Gradient",
+      "url": "https://www.shopaardvark.com/media/aardvark/patterns/Gold_Age_TEST.jpg",
+      "width": 9447,
+      "height": 2843,
+      "ratio": 1,
+      "isDev": 1,
+      "tags": ["gold"],
+      "groups": ["default", "group2"]
+    }
+  ],
+  "colours": {
+    "textColors": [
+      {
+        "id": -1,
+        "name": "transparent",
+        "value": "rgba(0, 0, 0, 0)",
+        "groups": ["default"]
+      },
+      {
+        "id": 0,
+        "name": "purple",
+        "value": "#663399",
+        "tags": ["purple", "medium", "muted", "cool"],
+        "groups": ["default", "group1", "group2", "group3"]
+      },
+      {
+        "id": 1,
+        "name": "pink",
+        "value": "#EF2094",
+        "tags": ["pink", "vivid", "warm"],
+        "groups": ["default", "group1", "group3", "group4"]
+      },
+      {
+        "id": 2,
+        "name": "light pink",
+        "value": "#F792C6",
+        "tags": ["pink", "light", "pastel", "warm"],
+        "groups": ["default", "group2", "group3", "group5"]
+      },
+      {
+        "id": 3,
+        "name": "white",
+        "value": "#FFFFFF",
+        "tags": ["white", "light", "pastel", "neutral"],
+        "groups": ["default", "group1", "group2", "group5"]
+      },
+      {
+        "id": 4,
+        "name": "light gray",
+        "value": "#E3E1E3",
+        "tags": ["grey", "light", "muted", "neutral"],
+        "groups": ["default", "group2", "group3", "group4"]
+      },
+      {
+        "id": 5,
+        "name": "medium gray",
+        "value": "#CBCFD1",
+        "tags": ["grey", "medium", "muted", "cool"],
+        "groups": ["default", "group1", "group3", "group5"]
+      },
+      {
+        "id": 6,
+        "name": "dark gray",
+        "value": "#ACB4B7",
+        "tags": ["grey", "dark", "muted", "cool"],
+        "groups": ["default", "group2", "group4", "group5"]
+      },
+      {
+        "id": 7,
+        "name": "blue-gray",
+        "value": "#687377",
+        "tags": ["blue", "medium", "muted", "cool"],
+        "groups": ["default", "group1", "group2", "group4"]
+      },
+      {
+        "id": 8,
+        "name": "silver",
+        "value": "#C4C5B8",
+        "tags": ["silver", "light", "muted", "cool"],
+        "groups": ["default", "group1", "group4", "group5"]
+      },
+      {
+        "id": 9,
+        "name": "pale gold",
+        "value": "#EFDFC6",
+        "tags": ["gold", "light", "pastel", "warm"],
+        "groups": ["default", "group3", "group4", "group5"]
+      },
+      {
+        "id": 10,
+        "name": "light gold",
+        "value": "#EFDFAD",
+        "tags": ["gold", "light", "pastel", "warm"],
+        "groups": ["default", "group1", "group2", "group3"]
+      },
+      {
+        "id": 11,
+        "name": "yellow",
+        "value": "#FFFF66",
+        "tags": ["yellow", "light", "pastel", "warm"],
+        "groups": ["default", "group1", "group2", "group4"]
+      },
+      {
+        "id": 12,
+        "name": "golden yellow",
+        "value": "#F7DF31",
+        "tags": ["yellow", "medium", "vivid", "warm"],
+        "groups": ["default", "group1", "group3", "group5"]
+      },
+      {
+        "id": 13,
+        "name": "orange",
+        "value": "#FF9900",
+        "tags": ["orange", "medium", "vivid", "warm"],
+        "groups": ["default", "group2", "group3", "group4"]
+      },
+      {
+        "id": 14,
+        "name": "dark orange",
+        "value": "#FF6600",
+        "tags": ["orange", "dark", "vivid", "warm"],
+        "groups": ["default", "group1", "group2", "group5"]
+      },
+      {
+        "id": 15,
+        "name": "red-orange",
+        "value": "#FF3333",
+        "tags": ["red", "vivid", "warm"],
+        "groups": ["default", "group3", "group4", "group5"]
+      },
+      {
+        "id": 16,
+        "name": "dark red",
+        "value": "#CA0000",
+        "tags": ["red", "dark", "vivid", "warm"],
+        "groups": ["default", "group1", "group3", "group4"]
+      },
+      {
+        "id": 17,
+        "name": "deep red",
+        "value": "#910000",
+        "tags": ["red", "dark", "muted", "warm"],
+        "groups": ["default", "group2", "group3", "group5"]
+      },
+      {
+        "id": 18,
+        "name": "maroon",
+        "value": "#7B1010",
+        "tags": ["red", "dark", "muted", "warm"],
+        "groups": ["default", "group1", "group2", "group4"]
+      },
+      {
+        "id": 19,
+        "name": "dark brown",
+        "value": "#331400",
+        "tags": ["brown", "dark", "muted", "warm"],
+        "groups": ["default", "group3", "group4", "group5"]
+      },
+      {
+        "id": 20,
+        "name": "brown",
+        "value": "#934900",
+        "tags": ["brown", "medium", "muted", "warm"],
+        "groups": ["default", "group1", "group2", "group3"]
+      },
+      {
+        "id": 21,
+        "name": "green",
+        "value": "#52DB00",
+        "tags": ["green", "vivid", "light", "cool"],
+        "groups": ["default", "group2", "group3", "group4"]
+      },
+      {
+        "id": 22,
+        "name": "teal",
+        "value": "#21BE52",
+        "tags": ["green", "vivid", "medium", "cool"],
+        "groups": ["default", "group1", "group3", "group5"]
+      },
+      {
+        "id": 23,
+        "name": "forest green",
+        "value": "#18794A",
+        "tags": ["green", "dark", "muted", "cool"],
+        "groups": ["default", "group2", "group4", "group5"]
+      },
+      {
+        "id": 24,
+        "name": "dark green",
+        "value": "#14653F",
+        "tags": ["green", "dark", "muted", "cool"],
+        "groups": ["default", "group1", "group3", "group4"]
+      },
+      {
+        "id": 25,
+        "name": "turquoise",
+        "value": "#00A29C",
+        "tags": ["blue", "vivid", "medium", "cool"],
+        "groups": ["default", "group1", "group2", "group5"]
+      },
+      {
+        "id": 26,
+        "name": "pale green",
+        "value": "#8CE3C6",
+        "tags": ["green", "light", "pastel", "cool"],
+        "groups": ["default", "group2", "group3", "group5"]
+      },
+      {
+        "id": 27,
+        "name": "sky blue",
+        "value": "#6BC3DE",
+        "tags": ["blue", "light", "pastel", "cool"],
+        "groups": ["default", "group1", "group3", "group4"]
+      },
+      {
+        "id": 28,
+        "name": "azure blue",
+        "value": "#00A2D6",
+        "tags": ["blue", "vivid", "medium", "cool"],
+        "groups": ["default", "group2", "group3", "group5"]
+      },
+      {
+        "id": 29,
+        "name": "royal blue",
+        "value": "#427DD6",
+        "tags": ["blue", "medium", "vivid", "cool"],
+        "groups": ["default", "group1", "group2", "group4"]
+      },
+      {
+        "id": 30,
+        "name": "navy blue",
+        "value": "#184594",
+        "tags": ["blue", "dark", "muted", "cool"],
+        "groups": ["default", "group3", "group4", "group5"]
+      },
+      {
+        "id": 31,
+        "name": "dark blue",
+        "value": "#0028C6",
+        "tags": ["blue", "dark", "vivid", "cool"],
+        "groups": ["default", "group1", "group2", "group3"]
+      },
+      {
+        "id": 32,
+        "name": "midnight blue",
+        "value": "#000C6B",
+        "tags": ["blue", "dark", "muted", "cool"],
+        "groups": ["default", "group2", "group4", "group5"]
+      },
+      {
+        "id": 33,
+        "name": "navy",
+        "value": "#00004F",
+        "tags": ["blue", "dark", "muted", "cool"],
+        "groups": ["default", "group1", "group3", "group5"]
+      },
+      {
+        "id": 34,
+        "name": "black",
+        "value": "#000000",
+        "tags": ["black", "dark", "muted", "neutral"],
+        "groups": ["default", "group1", "group2", "group4"]
+      },
+
+      {
+        "id": 34,
+        "name": "Crimson Red",
+        "value": "#DC143C",
+        "tags": ["red", "medium", "vivid", "warm"],
+        "groups": ["default"]
+      },
+      {
+        "id": 35,
+        "name": "Brick Red",
+        "value": "#CB4154",
+        "tags": ["red", "medium", "muted", "warm"],
+        "groups": ["default"]
+      },
+      {
+        "id": 36,
+        "name": "Fire Engine Red",
+        "value": "#CE2029",
+        "tags": ["red", "bright", "vivid", "warm"],
+        "groups": ["default"]
+      },
+      {
+        "id": 37,
+        "name": "Burgundy",
+        "value": "#800020",
+        "tags": ["red", "dark", "muted", "warm"],
+        "groups": ["default"]
+      },
+      {
+        "id": 38,
+        "name": "Rose",
+        "value": "#FF007F",
+        "tags": ["red", "medium", "bright", "warm"],
+        "groups": ["default"]
+      },
+      {
+        "id": 39,
+        "name": "Pinkish Red",
+        "value": "#FFB3B3",
+        "tags": ["red", "light", "pastel", "warm"],
+        "groups": ["default"]
+      },
+      {
+        "id": 40,
+        "name": "Salmon",
+        "value": "#FFA07A",
+        "tags": ["red", "light", "pastel", "warm"],
+        "groups": ["default"]
+      },
+      {
+        "id": 41,
+        "name": "Blush Red",
+        "value": "#FFC0CB",
+        "tags": ["red", "light", "pastel", "warm"],
+        "groups": ["default"]
+      },
+      {
+        "id": 42,
+        "name": "Vivid Red",
+        "value": "#FF0000",
+        "tags": ["red", "medium", "vivid", "warm"],
+        "groups": ["default"]
+      },
+      {
+        "id": 43,
+        "name": "Cherry Red",
+        "value": "#FF1C00",
+        "tags": ["red", "bright", "vivid", "warm"],
+        "groups": ["default"]
+      },
+      {
+        "id": 44,
+        "name": "Pumpkin",
+        "value": "#FF7518",
+        "tags": ["orange", "medium", "vivid", "warm"],
+        "groups": ["default"]
+      },
+      {
+        "id": 45,
+        "name": "Tangerine",
+        "value": "#FF9505",
+        "tags": ["orange", "medium", "bright", "warm"],
+        "groups": ["default"]
+      },
+      {
+        "id": 46,
+        "name": "Burnt Orange",
+        "value": "#CC5500",
+        "tags": ["orange", "dark", "muted", "warm"],
+        "groups": ["default"]
+      },
+      {
+        "id": 47,
+        "name": "Dark Orange",
+        "value": "#FF8C00",
+        "tags": ["orange", "dark", "vivid", "warm"],
+        "groups": ["default"]
+      },
+      {
+        "id": 48,
+        "name": "Coral",
+        "value": "#FF7F50",
+        "tags": ["orange", "medium", "bright", "warm"],
+        "groups": ["default"]
+      },
+      {
+        "id": 49,
+        "name": "Peach",
+        "value": "#FFDAB9",
+        "tags": ["orange", "light", "pastel", "warm"],
+        "groups": ["default"]
+      },
+      {
+        "id": 50,
+        "name": "Apricot",
+        "value": "#FBCEB1",
+        "tags": ["orange", "light", "pastel", "warm"],
+        "groups": ["default"]
+      },
+      {
+        "id": 51,
+        "name": "Neon Orange",
+        "value": "#FF5F1F",
+        "tags": ["orange", "bright", "vivid", "warm"],
+        "groups": ["default"]
+      },
+      {
+        "id": 52,
+        "name": "Sunset Orange",
+        "value": "#FF4500",
+        "tags": ["orange", "medium", "vivid", "warm"],
+        "groups": ["default"]
+      },
+      {
+        "id": 53,
+        "name": "Golden Yellow",
+        "value": "#FFD700",
+        "tags": ["yellow", "medium", "vivid", "warm"],
+        "groups": ["default"]
+      },
+      {
+        "id": 54,
+        "name": "Mustard",
+        "value": "#FFDB58",
+        "tags": ["yellow", "medium", "muted", "warm"],
+        "groups": ["default"]
+      },
+      {
+        "id": 55,
+        "name": "Lemon",
+        "value": "#FFF44F",
+        "tags": ["yellow", "light", "bright", "warm"],
+        "groups": ["default"]
+      },
+      {
+        "id": 56,
+        "name": "Canary",
+        "value": "#FFFF99",
+        "tags": ["yellow", "light", "bright", "warm"],
+        "groups": ["default"]
+      },
+      {
+        "id": 57,
+        "name": "Yellow Ochre",
+        "value": "#CC7722",
+        "tags": ["yellow", "dark", "muted", "warm"],
+        "groups": ["default"]
+      },
+      {
+        "id": 58,
+        "name": "Pastel Yellow",
+        "value": "#FFFFB3",
+        "tags": ["yellow", "light", "pastel", "warm"],
+        "groups": ["default"]
+      },
+      {
+        "id": 59,
+        "name": "Buttercream",
+        "value": "#FFFACD",
+        "tags": ["yellow", "light", "pastel", "warm"],
+        "groups": ["default"]
+      },
+      {
+        "id": 60,
+        "name": "Vivid Yellow",
+        "value": "#FFFF00",
+        "tags": ["yellow", "bright", "vivid", "warm"],
+        "groups": ["default"]
+      },
+      {
+        "id": 61,
+        "name": "Sunflower",
+        "value": "#FFDA03",
+        "tags": ["yellow", "medium", "vivid", "warm"],
+        "groups": ["default"]
+      },
+      {
+        "id": 62,
+        "name": "Forest Green",
+        "value": "#228B22",
+        "tags": ["green", "dark", "muted", "cool"],
+        "groups": ["default"]
+      },
+      {
+        "id": 63,
+        "name": "Kelly Green",
+        "value": "#4CBB17",
+        "tags": ["green", "medium", "vivid", "cool"],
+        "groups": ["default"]
+      },
+      {
+        "id": 64,
+        "name": "Lime",
+        "value": "#32CD32",
+        "tags": ["green", "light", "bright", "cool"],
+        "groups": ["default"]
+      },
+      {
+        "id": 65,
+        "name": "Olive",
+        "value": "#808000",
+        "tags": ["green", "medium", "muted", "warm"],
+        "groups": ["default"]
+      },
+      {
+        "id": 66,
+        "name": "Emerald",
+        "value": "#50C878",
+        "tags": ["green", "medium", "vivid", "cool"],
+        "groups": ["default"]
+      },
+      {
+        "id": 67,
+        "name": "Mint",
+        "value": "#98FF98",
+        "tags": ["green", "light", "pastel", "cool"],
+        "groups": ["default"]
+      },
+      {
+        "id": 68,
+        "name": "Pastel Green",
+        "value": "#77DD77",
+        "tags": ["green", "light", "pastel", "cool"],
+        "groups": ["default"]
+      },
+      {
+        "id": 69,
+        "name": "Seafoam",
+        "value": "#93E9BE",
+        "tags": ["green", "light", "pastel", "cool"],
+        "groups": ["default"]
+      },
+      {
+        "id": 70,
+        "name": "Neon Green",
+        "value": "#39FF14",
+        "tags": ["green", "bright", "vivid", "cool"],
+        "groups": ["default"]
+      },
+      {
+        "id": 71,
+        "name": "Apple Green",
+        "value": "#8DB600",
+        "tags": ["green", "medium", "vivid", "cool"],
+        "groups": ["default"]
+      },
+      {
+        "id": 72,
+        "name": "Royal Blue",
+        "value": "#4169E1",
+        "tags": ["blue", "medium", "vivid", "cool"],
+        "groups": ["default"]
+      },
+      {
+        "id": 73,
+        "name": "Sky Blue",
+        "value": "#87CEEB",
+        "tags": ["blue", "light", "pastel", "cool"],
+        "groups": ["default"]
+      },
+      {
+        "id": 74,
+        "name": "Navy",
+        "value": "#000080",
+        "tags": ["blue", "dark", "muted", "cool"],
+        "groups": ["default"]
+      },
+      {
+        "id": 75,
+        "name": "Cyan",
+        "value": "#00FFFF",
+        "tags": ["blue", "bright", "vivid", "cool"],
+        "groups": ["default"]
+      },
+      {
+        "id": 76,
+        "name": "Azure",
+        "value": "#007FFF",
+        "tags": ["blue", "medium", "vivid", "cool"],
+        "groups": ["default"]
+      },
+      {
+        "id": 77,
+        "name": "Baby Blue",
+        "value": "#BFEFFF",
+        "tags": ["blue", "light", "pastel", "cool"],
+        "groups": ["default"]
+      },
+      {
+        "id": 78,
+        "name": "Powder Blue",
+        "value": "#B0E0E6",
+        "tags": ["blue", "light", "pastel", "cool"],
+        "groups": ["default"]
+      },
+      {
+        "id": 79,
+        "name": "Neon Blue",
+        "value": "#1F51FF",
+        "tags": ["blue", "bright", "vivid", "cool"],
+        "groups": ["default"]
+      },
+      {
+        "id": 80,
+        "name": "Electric Blue",
+        "value": "#7DF9FF",
+        "tags": ["blue", "medium", "vivid", "cool"],
+        "groups": ["default"]
+      },
+      {
+        "id": 81,
+        "name": "Violet",
+        "value": "#8F00FF",
+        "tags": ["purple", "medium", "vivid", "cool"],
+        "groups": ["default"]
+      },
+      {
+        "id": 82,
+        "name": "Lavender",
+        "value": "#E6E6FA",
+        "tags": ["purple", "light", "pastel", "cool"],
+        "groups": ["default"]
+      },
+      {
+        "id": 83,
+        "name": "Plum",
+        "value": "#DDA0DD",
+        "tags": ["purple", "medium", "muted", "cool"],
+        "groups": ["default"]
+      },
+      {
+        "id": 84,
+        "name": "Amethyst",
+        "value": "#9966CC",
+        "tags": ["purple", "medium", "vivid", "cool"],
+        "groups": ["default"]
+      },
+      {
+        "id": 85,
+        "name": "Deep Purple",
+        "value": "#4B0082",
+        "tags": ["purple", "dark", "muted", "cool"],
+        "groups": ["default"]
+      },
+      {
+        "id": 86,
+        "name": "Pastel Purple",
+        "value": "#CDA4DE",
+        "tags": ["purple", "light", "pastel", "cool"],
+        "groups": ["default"]
+      },
+      {
+        "id": 87,
+        "name": "Mauve",
+        "value": "#E0B0FF",
+        "tags": ["purple", "light", "pastel", "cool"],
+        "groups": ["default"]
+      },
+      {
+        "id": 88,
+        "name": "Neon Purple",
+        "value": "#BC13FE",
+        "tags": ["purple", "bright", "vivid", "cool"],
+        "groups": ["default"]
+      },
+      {
+        "id": 89,
+        "name": "Electric Purple",
+        "value": "#BF00FF",
+        "tags": ["purple", "medium", "vivid", "cool"],
+        "groups": ["default"]
+      },
+      {
+        "id": 90,
+        "name": "Hot Pink",
+        "value": "#FF69B4",
+        "tags": ["pink", "medium", "vivid", "warm"],
+        "groups": ["default"]
+      },
+      {
+        "id": 91,
+        "name": "Light Pink",
+        "value": "#FFB6C1",
+        "tags": ["pink", "light", "pastel", "warm"],
+        "groups": ["default"]
+      },
+      {
+        "id": 92,
+        "name": "Deep Pink",
+        "value": "#FF1493",
+        "tags": ["pink", "dark", "vivid", "warm"],
+        "groups": ["default"]
+      },
+      {
+        "id": 93,
+        "name": "Fuchsia",
+        "value": "#FF00FF",
+        "tags": ["pink", "bright", "vivid", "warm"],
+        "groups": ["default"]
+      },
+      {
+        "id": 94,
+        "name": "Rose Pink",
+        "value": "#FF66CC",
+        "tags": ["pink", "medium", "vivid", "warm"],
+        "groups": ["default"]
+      },
+      {
+        "id": 95,
+        "name": "Baby Pink",
+        "value": "#FFC0CB",
+        "tags": ["pink", "light", "pastel", "warm"],
+        "groups": ["default"]
+      },
+      {
+        "id": 96,
+        "name": "Cotton Candy",
+        "value": "#FFBCD9",
+        "tags": ["pink", "light", "pastel", "warm"],
+        "groups": ["default"]
+      },
+      {
+        "id": 97,
+        "name": "Neon Pink",
+        "value": "#FF6EC7",
+        "tags": ["pink", "bright", "vivid", "warm"],
+        "groups": ["default"]
+      },
+      {
+        "id": 98,
+        "name": "Magenta",
+        "value": "#FF00FF",
+        "tags": ["pink", "medium", "vivid", "warm"],
+        "groups": ["default"]
+      },
+      {
+        "id": 99,
+        "name": "Chocolate",
+        "value": "#D2691E",
+        "tags": ["brown", "medium", "muted", "warm"],
+        "groups": ["default"]
+      },
+      {
+        "id": 100,
+        "name": "Saddle Brown",
+        "value": "#8B4513",
+        "tags": ["brown", "dark", "muted", "warm"],
+        "groups": ["default"]
+      },
+      {
+        "id": 101,
+        "name": "Tan",
+        "value": "#D2B48C",
+        "tags": ["brown", "light", "muted", "warm"],
+        "groups": ["default"]
+      },
+      {
+        "id": 102,
+        "name": "Chestnut",
+        "value": "#CD5C5C",
+        "tags": ["brown", "medium", "muted", "warm"],
+        "groups": ["default"]
+      },
+      {
+        "id": 103,
+        "name": "Beige",
+        "value": "#F5F5DC",
+        "tags": ["brown", "light", "pastel", "warm"],
+        "groups": ["default"]
+      },
+      {
+        "id": 104,
+        "name": "Light Gray",
+        "value": "#D3D3D3",
+        "tags": ["gray", "light", "muted", "neutral"],
+        "groups": ["default"]
+      },
+      {
+        "id": 105,
+        "name": "Slate Gray",
+        "value": "#708090",
+        "tags": ["gray", "medium", "muted", "cool"],
+        "groups": ["default"]
+      },
+      {
+        "id": 106,
+        "name": "Charcoal",
+        "value": "#36454F",
+        "tags": ["gray", "dark", "muted", "cool"],
+        "groups": ["default"]
+      },
+      {
+        "id": 107,
+        "name": "Silver Gray",
+        "value": "#C0C0C0",
+        "tags": ["gray", "light", "muted", "cool"],
+        "groups": ["default"]
+      },
+      {
+        "id": 108,
+        "name": "Ash Gray",
+        "value": "#B2BEB5",
+        "tags": ["gray", "medium", "muted", "cool"],
+        "groups": ["default"]
+      }
+    ]
+  }
+}

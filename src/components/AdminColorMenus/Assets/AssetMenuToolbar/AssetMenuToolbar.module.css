@@ -1,0 +1,159 @@
+/* Container */
+.container {
+  display: flex;
+  flex-direction: row;
+  border-bottom: 1px solid #d0d0d0;
+  background-color: #ffffff;
+  font-family: sans-serif;
+  user-select: none;
+}
+
+/* Toolbar Section */
+.toolbarSection {
+  display: flex;
+  flex-direction: column;
+  padding: 8px 12px;
+  min-width: 200px;
+}
+
+.altBackground {
+  background-color: #f9f9f9;
+}
+
+/* Vertical divider between sections */
+.divider {
+  width: 1px;
+  background-color: #ccc;
+  margin: 0 4px;
+}
+
+/* Top Row (Search + Type Filters) */
+.topRow {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.searchInput {
+  padding: 6px 8px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  min-width: 200px;
+  flex: 1;
+}
+
+.typeFiltersContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.typeFilters {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.typeFilterItem {
+  display: flex;
+  align-items: center;
+  padding: 4px 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 13px;
+  background-color: #f9f9f9;
+  cursor: pointer;
+}
+
+.typeFilterItem input {
+  margin-right: 4px;
+  cursor: pointer;
+}
+
+.title {
+  font-size: 16px;
+  font-weight: 700;
+  margin-bottom: 8px;
+  text-align: center;
+}
+
+/* Bottom Row (Tags / Groups Select) */
+.bottomRow {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+  margin-top: 4px;
+}
+
+.selectorContainer {
+  min-width: 200px;
+  width: 250px;
+}
+
+.selectorLabel {
+  display: block;
+  margin-bottom: 4px;
+  font-weight: 600;
+  font-size: 13px;
+}
+
+/* Rename Config */
+.renameConfigWrapper {
+  display: flex;
+  gap: 24px;
+  flex-wrap: wrap;
+  margin-top: 8px;
+}
+
+.renameBlock {
+  display: flex;
+  flex-direction: column;
+  min-width: 220px;
+}
+
+.renameRow {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.renameSelect {
+  width: 180px;
+}
+
+.renameColumns {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.renameColumn {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  min-width: 180px;
+}
+
+.addDraftRow {
+  display: flex;
+  gap: 8px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+/* Optional: make vertical dividers full height for better alignment */
+.divider {
+  width: 1px;
+  background-color: #ccc;
+  margin: 0 8px;
+  align-self: stretch;
+}
+
+/* Optional: visually separate toolbar sections */
+.toolbarSection {
+  display: flex;
+  flex-direction: column;
+  padding: 8px 12px;
+  justify-content: center;
+}

@@ -1,0 +1,132 @@
+.assetRow {
+  display: grid;
+  grid-template-columns: 1fr 260px;
+  gap: 16px;
+  position: relative;
+  padding: 12px 16px;
+}
+
+.mainColumn {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.assetName {
+  margin: 0;
+  font-size: 15px;
+  font-weight: 600;
+  color: #222;
+}
+
+.meta {
+  display: flex;
+  gap: 12px;
+  font-size: 12px;
+  color: #666;
+}
+
+.type {
+  background: #eef2ff;
+  color: #3b5bfd;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-weight: 500;
+}
+
+.value {
+  font-family: monospace;
+  color: #444;
+  padding-top: 2px;
+  max-width: 300px;
+  word-wrap: break-word;
+}
+
+.pillWrapper {
+  width: 300px;
+  height: 140px;
+}
+
+.metaColumn {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.tagGroup {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.label {
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: #888;
+}
+
+.list {
+  font-size: 13px;
+  color: #333;
+  line-height: 1.4;
+}
+
+.removeButtonContainer {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+
+.removeButton {
+  width: 16px;
+  height: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ff4d4f;
+  color: #fff;
+  font-weight: bold;
+  font-size: 10px;
+  line-height: 1;
+  border-radius: 50%;
+  cursor: pointer;
+  user-select: none;
+  transition: background-color 0.2s;
+}
+
+.removeButton:hover {
+  background-color: #ff7875;
+}
+
+.renameWrapper {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.renameInput {
+  font-size: 14px;
+  padding: 4px 6px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  outline: none;
+}
+
+.renameButton {
+  all: unset; /* remove all browser default button styles */
+  cursor: pointer;
+  font-size: 14px;
+  line-height: 1;
+  user-select: none;
+}
+
+.selectCheckbox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 8px;
+  position: absolute;
+  top: 0px;
+  right: 12px;
+}

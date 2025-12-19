@@ -1,0 +1,63 @@
+/* Container for history inside toolbar */
+.historyContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 6px;
+  margin-left: auto; /* push it to the right */
+  font-size: 12px;
+  font-family: sans-serif;
+  padding: 12px;
+}
+
+/* Undo button style to match toolbar buttons */
+.historyContainer button {
+  padding: 4px 10px;
+  font-size: 12px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  background-color: #f0f0f0;
+  cursor: pointer;
+  transition: background-color 0.15s;
+}
+
+.historyContainer button:hover:not(:disabled) {
+  background-color: #e0e0e0;
+}
+
+.historyContainer button:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+
+/* History preview box */
+.historyPreview {
+  border: 1px solid #e0e0e0;
+  background-color: #fafafa;
+  padding: 6px 8px;
+  border-radius: 4px;
+  min-width: 140px;
+}
+
+/* Label inside the box */
+.historyLabel {
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+
+/* List of last actions */
+.historyPreview ul {
+  margin: 0;
+  padding-left: 16px;
+  max-height: 60px; /* keep compact */
+  overflow-y: auto;
+  padding-inline-start: 8px;
+}
+
+.historyPreview li {
+  margin: 2px 0;
+  font-size: 12px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
